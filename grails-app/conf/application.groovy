@@ -66,7 +66,7 @@ skin.fluidLayout = true
 skin.useAlaSpatialPortal = false
 skin.useAlaBie = false
 skin.taxaLinks.baseUrl =  // 3rd party species pages. Leave blank for no links
-test.var = "gbiffrance-hub"
+test.var = "gbiftogo-hub"
 headerAndFooter.baseURL= "http://layout.togo.gbif.fr"
 
 biocache.queryContext = "data_hub_uid:dh0"

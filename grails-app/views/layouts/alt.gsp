@@ -2,8 +2,8 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <alatag:addApplicationMetaTags/>
-    <meta name="description" content="Portail français du GBIF"/>
-    <meta name="author" content="GBIF France">
+    <meta name="description" content="Portail Togolais du GBIF"/>
+    <meta name="author" content="GBIF Togo">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="breadcrumb" content="${pageProperty(name:'meta.breadcrumb')}">
     <meta name="breadcrumbs" content="${pageProperty(name:'meta.breadcrumbs')}">

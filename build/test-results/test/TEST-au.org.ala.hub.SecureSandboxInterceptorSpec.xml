@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="au.org.ala.hub.SecureSandboxInterceptorSpec" tests="2" skipped="0" failures="0" errors="0" timestamp="2019-10-21T09:52:42" hostname="caviere-HP-ZBook-Studio-G3" time="2.523">
+  <properties/>
+  <testcase name="Test secureSandbox interceptor matching proxy" classname="au.org.ala.hub.SecureSandboxInterceptorSpec" time="2.52"/>
+  <testcase name="Test secureSandbox interceptor matching occurrence" classname="au.org.ala.hub.SecureSandboxInterceptorSpec" time="0.003"/>
+  <system-out><![CDATA[[gbiffrance-hub] No external configuration file defined.
+[gbiffrance-hub] (*) grails.config.locations = []
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,4 +1,4 @@
-rootProject.name='gbiffrance-hub'
+rootProject.name='gbiftogo-hub'
 
 // Inplace plugin config
 // Set to true it needed only for development
@@ -20,5 +20,5 @@ if (inplace) {
 //    project(':ala-ws-plugin').projectDir = new File(settingsDir,'../ala-ws-plugin')
 
 }
-rootProject.name = 'gbiffrance-hub'
+rootProject.name = 'gbiftogo-hub'
 
